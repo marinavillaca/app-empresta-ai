@@ -1,0 +1,9 @@
+<resources>
+    <style name="CategoryButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+</resources>
